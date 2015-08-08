@@ -1,6 +1,10 @@
 
 body{
-    padding-top: 70px;
+    padding-top: 50px;
+}
+
+.backimg{
+     width:100%;
 }
 .navbar-inverse input[type="text"]{
     background: #313131;
